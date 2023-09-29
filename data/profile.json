@@ -21,7 +21,7 @@
       },
       {
         "name": "Mysql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql2.png"
       },
       {
         "name": "Postgresql",
@@ -38,8 +38,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (iniciante)",
-    "Espanhol (iniciante)"
+    "Inglês (iniciante)"
   ],
   "portfolio": [
     {
