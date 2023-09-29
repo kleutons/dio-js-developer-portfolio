@@ -16,16 +16,12 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Mysql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       },
       {
         "name": "Postgresql",
@@ -34,7 +30,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Dedicação",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
